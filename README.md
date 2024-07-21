@@ -1,2 +1,2 @@
 # RPG
-Random Password Genrator
+Random Password Generator
